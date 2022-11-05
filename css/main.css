@@ -1,6 +1,11 @@
+h1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 :root {
-  --mainWhite: #f5f5f5;
-  --mainGreen: #80cfa9;
+  --mainWhite: #f3dede;
+  --mainGreen: #57a17e;
   --mainBlack: #333333;
   --mainRed: #d62828;
   --mainBlue: #11b5e4;
