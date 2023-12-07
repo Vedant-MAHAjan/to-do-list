@@ -2,6 +2,8 @@
 
 This is a simple To-Do list web app built using HTML, CSS, and JavaScript. It allows users to add tasks to a list, mark tasks as complete, and delete tasks. The app also includes a "Clear List" button that allows users to delete all tasks at once.
 
+## Check out the live site https://vedant-mahajan.github.io/to-do-list/
+
 ## 🚀 Features
 Add tasks to a list ✍️
 
